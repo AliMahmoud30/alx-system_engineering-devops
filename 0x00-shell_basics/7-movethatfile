@@ -1,5 +1,5 @@
 #!/bin/bash
 cd
-cd tmp
+cd /tmp
 touch betty
-mv betty my_first_directory
+mv betty /my_first_directory
